@@ -234,7 +234,7 @@ section.hero{
     section.hero{
         max-width: 30rem;
         flex-direction: column-reverse;
-        padding: 1rem 1rem 1rem 2rem;
+        padding: 1rem;
         
 
         & h1{
